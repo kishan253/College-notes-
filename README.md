@@ -26,7 +26,6 @@ College-Notes-Gallery Admin Panel ->
 - Upload College-Notes-Gallery to the directory of your choice. (E.g :  /var/www/html/college-notes-gallery )
 - Import MySql Db file to your database software (E.g : PhpMyAdmin -> Create DB -> Import notes.sql  )
 - Configure connection between your database and server by modifying the /includes/connection.php file
-- Navigate to the installation in your browser ( E.g :  http://localhost/college-notes-gallery )
 - Done :)
 
 ### Login Details
